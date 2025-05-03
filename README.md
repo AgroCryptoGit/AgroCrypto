@@ -58,7 +58,7 @@ This repository will house:
 
 ## 🤝 Contact
 For official correspondence, legal notices or compliance-related partnerships:  
-**Email:** legal@agrocrypto.org  
+**Email:** legal@agrocrypto.io 
 **Jurisdiction:** United States (Delaware), Brazil (São Paulo), and Global Treaty Compliant  
 
 **AgroCrypto Labs LLC – Truth in Code. Trust in Design.**
